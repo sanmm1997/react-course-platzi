@@ -1,0 +1,31 @@
+.Badge__item {
+    background-color: #fff;
+    margin: .7em 0;
+    box-shadow: 2px 2px 2px #0000002e;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+
+.Badge__item-info {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 1em;
+}
+
+.Badge__item-info > .twitter{
+    color: #1ea1f2;
+}
+
+.Badge__item-info > .twitter:before{
+    color: #1ea1f2;
+    content: '@';
+    font-weight: bold;
+}
+
+.Badge__item  span {
+    display: block;
+}
+
+.Badge__item > img {
+    border-radius: 50px;
+}

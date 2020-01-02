@@ -1,0 +1,5 @@
+.Container__home {
+    background: url('../../images/stars.svg'), #1B1B25;
+    background-repeat: repeat;
+    height: calc(100vh - 60px);
+}

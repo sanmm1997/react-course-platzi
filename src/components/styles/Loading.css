@@ -1,0 +1,12 @@
+.PageLoading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: calc(100vh);
+    z-index: 1000;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
